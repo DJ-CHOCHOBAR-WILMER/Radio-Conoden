@@ -1,0 +1,30 @@
+{
+	"name": "Mixx Show Radio",
+	"short_name": "playervisual.com",
+	"description": "Musica En Linea  24/7.",
+	"icons" : [
+		{
+			"src": "_img/apple-touch-icon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+        },
+        {
+			"src": "_img/apple-touch-icon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "./?mode=pwa",
+	"theme_color": "#7D5BC9",
+	"background_color": "#7D5BC9",
+	"orientation": "portrait",
+	"display": "fullscreen",
+	"display_override": [
+		"fullscreen"
+	],
+	"lang": "ru",
+	"dir": "ltr",
+	"categories": [
+		"music"
+	]
+}
